@@ -1,12 +1,7 @@
 /**
- *  Compilation:  javac HelloWorld.java
- *  Execution:    java HelloWorld
- *
  *  Prints "Hello, World". 
- *
  *  % java HelloWorld
  *  Hello, World
- *
  *  @author: Matthew Sanii
  *  @version: 1.0
  *  @since 2020-11-17
